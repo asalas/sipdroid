@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c4d0550-d43e-47a4-850e-53eef7d96d68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/android-async-http-1.4.8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/sipdroid.xml" afterPath="$PROJECT_DIR$/res/layout/sipdroid.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/res/values-es/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java" afterPath="$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java" afterPath="$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java" />
+    </list>
+    <ignored path="sipdroid.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sipdroid" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.31374046">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-77.15385">
+                  <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="1.375">
+                  <caret line="316" column="91" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="91" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.4716983">
+                  <caret line="304" column="35" selection-start-line="304" selection-start-column="14" selection-end-line="304" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Sipdroid.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="249" column="63" selection-start-line="249" selection-start-column="63" selection-end-line="249" selection-end-column="63" />
+                  <folding>
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#3869#3870#0" expanded="false" />
+                    <element signature="e#3911#3912#0" expanded="false" />
+                    <element signature="e#3953#3954#0" expanded="false" />
+                    <element signature="e#4007#4008#0" expanded="false" />
+                    <element signature="e#19862#19863#0" expanded="false" />
+                    <element signature="e#19914#19915#0" expanded="false" />
+                    <element signature="e#20529#20530#0" expanded="false" />
+                    <element signature="e#20555#20556#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sipdroid.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/layout/sipdroid.xml">
+              <provider editor-type-id="android-designer">
+                <state />
+              </provider>
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-3.2">
+                  <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="preferences.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/xml/preferences.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="5" column="37" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="37" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Settings.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="663" column="48" selection-start-line="663" selection-start-column="48" selection-end-line="663" selection-end-column="48" />
+                  <folding>
+                    <element signature="e#0#30383#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#14716#14764#0" expanded="true" />
+                    <element signature="e#14843#14891#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="LoginConsoleVoIPMedia.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/net/voipmedia/ui/LoginConsoleVoIPMedia.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4692082">
+                  <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#1969#2003#0" expanded="true" />
+                    <element signature="e#2045#2079#0" expanded="true" />
+                    <element signature="e#2372#8480#0" expanded="true" />
+                    <element signature="e#6456#6486#0" expanded="true" />
+                    <element signature="e#6688#6703#0" expanded="true" />
+                    <element signature="e#6749#7373#0" expanded="true" />
+                    <element signature="e#7372#7373#0" expanded="true" />
+                    <element signature="e#8479#8480#0" expanded="true" />
+                    <element signature="e#8672#8703#0" expanded="true" />
+                    <element signature="e#8813#8828#0" expanded="true" />
+                    <element signature="e#8842#9048#0" expanded="true" />
+                    <element signature="e#9047#9048#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SubscriberConsole.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/net/voipmedia/ui/SubscriberConsole.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="5" column="37" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="37" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="console_voipmedia.properties" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/raw/console_voipmedia.properties">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="login_console.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/layout/login_console.xml">
+              <provider editor-type-id="android-designer">
+                <state />
+              </provider>
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.3090909">
+                  <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/res/layout/login_console.xml" />
+        <option value="$PROJECT_DIR$/src/net/voipmedia/ui/SubscriberConsole.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/sipdroid.xml" />
+        <option value="$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java" />
+        <option value="$PROJECT_DIR$/res/raw/console_voipmedia.properties" />
+        <option value="$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/src/net/voipmedia/ui/LoginConsoleVoIPMedia.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1370" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-es" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sipdroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\workspace-android\sipdroid\libs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\workspace-android\sipdroid\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.sipdroid-emulator">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="sipdroid-emulator" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="sipdroid" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="Nexus_4_API_Android_5" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="Nexus_4_API_Android_5" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sipdroid-device" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="sipdroid" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.sipdroid-emulator" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.sipdroid-device" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c4d0550-d43e-47a4-850e-53eef7d96d68" name="Default" comment="" />
+      <created>1452570686153</created>
+      <option name="number" value="Default" />
+      <updated>1452570686153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1370" height="772" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42414355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3980424" sideWeight="0.49389312" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980424" sideWeight="0.50610685" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23129772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.4939302" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java</url>
+          <line>413</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/voipmedia/ui/LoginConsoleVoIPMedia.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java</url>
+          <line>656</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/voipmedia/ui/LoginConsoleVoIPMedia.java</url>
+          <line>199</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="58" selection-start-line="142" selection-start-column="58" selection-end-line="142" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#30383#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#14716#14764#0" expanded="true" />
+            <element signature="e#14843#14891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/voipmedia/ui/LoginConsoleVoIPMedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="0" selection-start-line="65" selection-start-column="16" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1969#2003#0" expanded="true" />
+            <element signature="e#2045#2079#0" expanded="true" />
+            <element signature="e#2372#8480#0" expanded="true" />
+            <element signature="e#6456#6486#0" expanded="true" />
+            <element signature="e#6688#6703#0" expanded="true" />
+            <element signature="e#6749#7373#0" expanded="true" />
+            <element signature="e#7372#7373#0" expanded="true" />
+            <element signature="e#8479#8480#0" expanded="true" />
+            <element signature="e#8672#8703#0" expanded="true" />
+            <element signature="e#8813#8828#0" expanded="true" />
+            <element signature="e#8842#9048#0" expanded="true" />
+            <element signature="e#9047#9048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/voipmedia/ui/SubscriberConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/console_voipmedia.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/login_console.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3869#3870#0" expanded="false" />
+            <element signature="e#3911#3912#0" expanded="false" />
+            <element signature="e#3953#3954#0" expanded="false" />
+            <element signature="e#4007#4008#0" expanded="false" />
+            <element signature="e#19862#19863#0" expanded="false" />
+            <element signature="e#19914#19915#0" expanded="false" />
+            <element signature="e#20529#20530#0" expanded="false" />
+            <element signature="e#20555#20556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/platforms/android-19/data/res/layout/simple_dropdown_item_1line.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/SipdroidListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/CreateAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="225" column="61" selection-start-line="225" selection-start-column="61" selection-end-line="225" selection-end-column="61" />
+          <folding>
+            <element signature="e#4180#4403#0" expanded="false" />
+            <element signature="e#4402#4403#0" expanded="false" />
+            <element signature="e#7957#8053#0" expanded="false" />
+            <element signature="e#8052#8053#0" expanded="false" />
+            <element signature="e#8151#8238#0" expanded="false" />
+            <element signature="e#8237#8238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout-finger/dialpad.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout-finger/dtmf_display.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout-finger/dtmf_twelve_key_dialer.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video_camera.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/call_card_person_info.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/call_card.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/create_dialog.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/incall.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/codec_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20058997">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/ongoing_call_notification.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout-land/call_card_person_info.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/UserAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5589041">
+          <caret line="60" column="50" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-77.15385">
+          <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5455" column="0" selection-start-line="5455" selection-start-column="0" selection-end-line="5455" selection-end-column="0" />
+          <folding>
+            <element signature="e#153595#153596#0" expanded="false" />
+            <element signature="e#153638#153639#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/app/Instrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1104" column="0" selection-start-line="1104" selection-start-column="0" selection-end-line="1104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/preferences.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/preference/PreferenceActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.4103942">
+          <caret line="1436" column="28" selection-start-line="1436" selection-start-column="28" selection-end-line="1436" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/codecs/Codecs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4382716">
+          <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+          <folding>
+            <element signature="e#3610#3626#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/ic_launcher_phone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/ic_search_contacts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/contacts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Sipdroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="249" column="63" selection-start-line="249" selection-start-column="63" selection-end-line="249" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3869#3870#0" expanded="false" />
+            <element signature="e#3911#3912#0" expanded="false" />
+            <element signature="e#3953#3954#0" expanded="false" />
+            <element signature="e#4007#4008#0" expanded="false" />
+            <element signature="e#19862#19863#0" expanded="false" />
+            <element signature="e#19914#19915#0" expanded="false" />
+            <element signature="e#20529#20530#0" expanded="false" />
+            <element signature="e#20555#20556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/content/ContextWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/content/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3313783">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4756" column="0" selection-start-line="4756" selection-start-column="0" selection-end-line="4756" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#760180#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#131496#131497#0" expanded="false" />
+            <element signature="e#131535#131536#0" expanded="false" />
+            <element signature="e#154752#154753#0" expanded="false" />
+            <element signature="e#154785#154786#0" expanded="false" />
+            <element signature="e#166172#166173#0" expanded="false" />
+            <element signature="e#166221#166222#0" expanded="false" />
+            <element signature="e#173812#173813#0" expanded="false" />
+            <element signature="e#173876#173877#0" expanded="false" />
+            <element signature="e#174296#174297#0" expanded="false" />
+            <element signature="e#174336#174337#0" expanded="false" />
+            <element signature="e#175111#175112#0" expanded="false" />
+            <element signature="e#175163#175164#0" expanded="false" />
+            <element signature="e#175376#175377#0" expanded="false" />
+            <element signature="e#175430#175431#0" expanded="false" />
+            <element signature="e#175952#175953#0" expanded="false" />
+            <element signature="e#176006#176007#0" expanded="false" />
+            <element signature="e#176451#176452#0" expanded="false" />
+            <element signature="e#176504#176505#0" expanded="false" />
+            <element signature="e#183113#183114#0" expanded="false" />
+            <element signature="e#183172#183173#0" expanded="false" />
+            <element signature="e#207745#207746#0" expanded="false" />
+            <element signature="e#207789#207790#0" expanded="false" />
+            <element signature="e#210600#210601#0" expanded="false" />
+            <element signature="e#210645#210646#0" expanded="false" />
+            <element signature="e#213696#213697#0" expanded="false" />
+            <element signature="e#213738#213739#0" expanded="false" />
+            <element signature="e#215351#215352#0" expanded="false" />
+            <element signature="e#215385#215386#0" expanded="false" />
+            <element signature="e#216412#216413#0" expanded="false" />
+            <element signature="e#216447#216448#0" expanded="false" />
+            <element signature="e#216961#216962#0" expanded="false" />
+            <element signature="e#217020#217021#0" expanded="false" />
+            <element signature="e#217271#217272#0" expanded="false" />
+            <element signature="e#217344#217345#0" expanded="false" />
+            <element signature="e#219262#219263#0" expanded="false" />
+            <element signature="e#219324#219325#0" expanded="false" />
+            <element signature="e#220285#220286#0" expanded="false" />
+            <element signature="e#220342#220343#0" expanded="false" />
+            <element signature="e#221074#221075#0" expanded="false" />
+            <element signature="e#221113#221114#0" expanded="false" />
+            <element signature="e#221453#221454#0" expanded="false" />
+            <element signature="e#221503#221504#0" expanded="false" />
+            <element signature="e#221804#221805#0" expanded="false" />
+            <element signature="e#221844#221845#0" expanded="false" />
+            <element signature="e#222189#222190#0" expanded="false" />
+            <element signature="e#222241#222242#0" expanded="false" />
+            <element signature="e#222533#222534#0" expanded="false" />
+            <element signature="e#222570#222571#0" expanded="false" />
+            <element signature="e#222900#222901#0" expanded="false" />
+            <element signature="e#222946#222947#0" expanded="false" />
+            <element signature="e#223244#223245#0" expanded="false" />
+            <element signature="e#223283#223284#0" expanded="false" />
+            <element signature="e#223623#223624#0" expanded="false" />
+            <element signature="e#223673#223674#0" expanded="false" />
+            <element signature="e#223980#223981#0" expanded="false" />
+            <element signature="e#224022#224023#0" expanded="false" />
+            <element signature="e#232398#232399#0" expanded="false" />
+            <element signature="e#232443#232444#0" expanded="false" />
+            <element signature="e#233407#233408#0" expanded="false" />
+            <element signature="e#233458#233459#0" expanded="false" />
+            <element signature="e#234146#234147#0" expanded="false" />
+            <element signature="e#234207#234208#0" expanded="false" />
+            <element signature="e#242657#242658#0" expanded="false" />
+            <element signature="e#242726#242727#0" expanded="false" />
+            <element signature="e#245483#245484#0" expanded="false" />
+            <element signature="e#245525#245526#0" expanded="false" />
+            <element signature="e#246579#246580#0" expanded="false" />
+            <element signature="e#246643#246644#0" expanded="false" />
+            <element signature="e#247875#247876#0" expanded="false" />
+            <element signature="e#247935#247936#0" expanded="false" />
+            <element signature="e#248400#248401#0" expanded="false" />
+            <element signature="e#248462#248463#0" expanded="false" />
+            <element signature="e#248765#248766#0" expanded="false" />
+            <element signature="e#248835#248836#0" expanded="false" />
+            <element signature="e#250780#250781#0" expanded="false" />
+            <element signature="e#250851#250852#0" expanded="false" />
+            <element signature="e#251224#251225#0" expanded="false" />
+            <element signature="e#251297#251298#0" expanded="false" />
+            <element signature="e#254845#254846#0" expanded="false" />
+            <element signature="e#254910#254911#0" expanded="false" />
+            <element signature="e#256692#256693#0" expanded="false" />
+            <element signature="e#256720#256721#0" expanded="false" />
+            <element signature="e#258360#258361#0" expanded="false" />
+            <element signature="e#258442#258443#0" expanded="false" />
+            <element signature="e#268440#268441#0" expanded="false" />
+            <element signature="e#268492#268493#0" expanded="false" />
+            <element signature="e#269445#269446#0" expanded="false" />
+            <element signature="e#269497#269498#0" expanded="false" />
+            <element signature="e#292392#292393#0" expanded="false" />
+            <element signature="e#292438#292439#0" expanded="false" />
+            <element signature="e#292644#292645#0" expanded="false" />
+            <element signature="e#292672#292673#0" expanded="false" />
+            <element signature="e#292752#292753#0" expanded="false" />
+            <element signature="e#292803#292804#0" expanded="false" />
+            <element signature="e#292881#292882#0" expanded="false" />
+            <element signature="e#292936#292937#0" expanded="false" />
+            <element signature="e#296534#296535#0" expanded="false" />
+            <element signature="e#296575#296576#0" expanded="false" />
+            <element signature="e#305019#305020#0" expanded="false" />
+            <element signature="e#305047#305048#0" expanded="false" />
+            <element signature="e#305482#305483#0" expanded="false" />
+            <element signature="e#305510#305511#0" expanded="false" />
+            <element signature="e#305939#305940#0" expanded="false" />
+            <element signature="e#305967#305968#0" expanded="false" />
+            <element signature="e#307125#307126#0" expanded="false" />
+            <element signature="e#307171#307172#0" expanded="false" />
+            <element signature="e#308581#308582#0" expanded="false" />
+            <element signature="e#308654#308655#0" expanded="false" />
+            <element signature="e#310308#310309#0" expanded="false" />
+            <element signature="e#310343#310344#0" expanded="false" />
+            <element signature="e#317127#317128#0" expanded="false" />
+            <element signature="e#317158#317159#0" expanded="false" />
+            <element signature="e#317862#317863#0" expanded="false" />
+            <element signature="e#317890#317891#0" expanded="false" />
+            <element signature="e#319742#319743#0" expanded="false" />
+            <element signature="e#319770#319771#0" expanded="false" />
+            <element signature="e#321818#321819#0" expanded="false" />
+            <element signature="e#321846#321847#0" expanded="false" />
+            <element signature="e#322481#322482#0" expanded="false" />
+            <element signature="e#322509#322510#0" expanded="false" />
+            <element signature="e#323479#323480#0" expanded="false" />
+            <element signature="e#323507#323508#0" expanded="false" />
+            <element signature="e#324160#324161#0" expanded="false" />
+            <element signature="e#324187#324188#0" expanded="false" />
+            <element signature="e#324759#324760#0" expanded="false" />
+            <element signature="e#324787#324788#0" expanded="false" />
+            <element signature="e#326509#326510#0" expanded="false" />
+            <element signature="e#326536#326537#0" expanded="false" />
+            <element signature="e#327468#327469#0" expanded="false" />
+            <element signature="e#327496#327497#0" expanded="false" />
+            <element signature="e#329296#329297#0" expanded="false" />
+            <element signature="e#329324#329325#0" expanded="false" />
+            <element signature="e#334406#334407#0" expanded="false" />
+            <element signature="e#334465#334466#0" expanded="false" />
+            <element signature="e#344575#344576#0" expanded="false" />
+            <element signature="e#344616#344617#0" expanded="false" />
+            <element signature="e#344724#344725#0" expanded="false" />
+            <element signature="e#344761#344762#0" expanded="false" />
+            <element signature="e#355155#355156#0" expanded="false" />
+            <element signature="e#355185#355186#0" expanded="false" />
+            <element signature="e#355467#355468#0" expanded="false" />
+            <element signature="e#355508#355509#0" expanded="false" />
+            <element signature="e#355788#355789#0" expanded="false" />
+            <element signature="e#355829#355830#0" expanded="false" />
+            <element signature="e#356209#356210#0" expanded="false" />
+            <element signature="e#356240#356241#0" expanded="false" />
+            <element signature="e#356606#356607#0" expanded="false" />
+            <element signature="e#356637#356638#0" expanded="false" />
+            <element signature="e#356840#356841#0" expanded="false" />
+            <element signature="e#356877#356878#0" expanded="false" />
+            <element signature="e#357079#357080#0" expanded="false" />
+            <element signature="e#357116#357117#0" expanded="false" />
+            <element signature="e#358061#358062#0" expanded="false" />
+            <element signature="e#358119#358120#0" expanded="false" />
+            <element signature="e#358658#358659#0" expanded="false" />
+            <element signature="e#358695#358696#0" expanded="false" />
+            <element signature="e#358983#358984#0" expanded="false" />
+            <element signature="e#359042#359043#0" expanded="false" />
+            <element signature="e#359584#359585#0" expanded="false" />
+            <element signature="e#359622#359623#0" expanded="false" />
+            <element signature="e#381331#381332#0" expanded="false" />
+            <element signature="e#381414#381415#0" expanded="false" />
+            <element signature="e#382654#382655#0" expanded="false" />
+            <element signature="e#382681#382682#0" expanded="false" />
+            <element signature="e#388140#388141#0" expanded="false" />
+            <element signature="e#388167#388168#0" expanded="false" />
+            <element signature="e#390610#390611#0" expanded="false" />
+            <element signature="e#390640#390641#0" expanded="false" />
+            <element signature="e#390810#390811#0" expanded="false" />
+            <element signature="e#390872#390873#0" expanded="false" />
+            <element signature="e#393258#393259#0" expanded="false" />
+            <element signature="e#393286#393287#0" expanded="false" />
+            <element signature="e#395753#395754#0" expanded="false" />
+            <element signature="e#395782#395783#0" expanded="false" />
+            <element signature="e#398793#398794#0" expanded="false" />
+            <element signature="e#398835#398836#0" expanded="false" />
+            <element signature="e#399676#399677#0" expanded="false" />
+            <element signature="e#399717#399718#0" expanded="false" />
+            <element signature="e#405332#405333#0" expanded="false" />
+            <element signature="e#405365#405366#0" expanded="false" />
+            <element signature="e#406669#406670#0" expanded="false" />
+            <element signature="e#406721#406722#0" expanded="false" />
+            <element signature="e#411692#411693#0" expanded="false" />
+            <element signature="e#411728#411729#0" expanded="false" />
+            <element signature="e#413895#413896#0" expanded="false" />
+            <element signature="e#413947#413948#0" expanded="false" />
+            <element signature="e#425534#425535#0" expanded="false" />
+            <element signature="e#425566#425567#0" expanded="false" />
+            <element signature="e#439435#439436#0" expanded="false" />
+            <element signature="e#439475#439476#0" expanded="false" />
+            <element signature="e#458272#458273#0" expanded="false" />
+            <element signature="e#458329#458330#0" expanded="false" />
+            <element signature="e#459016#459017#0" expanded="false" />
+            <element signature="e#459049#459050#0" expanded="false" />
+            <element signature="e#459818#459819#0" expanded="false" />
+            <element signature="e#459849#459850#0" expanded="false" />
+            <element signature="e#460616#460617#0" expanded="false" />
+            <element signature="e#460649#460650#0" expanded="false" />
+            <element signature="e#461297#461298#0" expanded="false" />
+            <element signature="e#461331#461332#0" expanded="false" />
+            <element signature="e#462084#462085#0" expanded="false" />
+            <element signature="e#462115#462116#0" expanded="false" />
+            <element signature="e#462867#462868#0" expanded="false" />
+            <element signature="e#462901#462902#0" expanded="false" />
+            <element signature="e#469909#469910#0" expanded="false" />
+            <element signature="e#469937#469938#0" expanded="false" />
+            <element signature="e#474677#474678#0" expanded="false" />
+            <element signature="e#474726#474727#0" expanded="false" />
+            <element signature="e#475359#475360#0" expanded="false" />
+            <element signature="e#475427#475428#0" expanded="false" />
+            <element signature="e#483573#483574#0" expanded="false" />
+            <element signature="e#483631#483632#0" expanded="false" />
+            <element signature="e#485861#485862#0" expanded="false" />
+            <element signature="e#485902#485903#0" expanded="false" />
+            <element signature="e#487949#487950#0" expanded="false" />
+            <element signature="e#488021#488022#0" expanded="false" />
+            <element signature="e#493212#493213#0" expanded="false" />
+            <element signature="e#493262#493263#0" expanded="false" />
+            <element signature="e#500777#500778#0" expanded="false" />
+            <element signature="e#500850#500851#0" expanded="false" />
+            <element signature="e#507742#507743#0" expanded="false" />
+            <element signature="e#507769#507770#0" expanded="false" />
+            <element signature="e#508447#508448#0" expanded="false" />
+            <element signature="e#508480#508481#0" expanded="false" />
+            <element signature="e#524717#524718#0" expanded="false" />
+            <element signature="e#524762#524763#0" expanded="false" />
+            <element signature="e#528247#528248#0" expanded="false" />
+            <element signature="e#528298#528299#0" expanded="false" />
+            <element signature="e#528498#528499#0" expanded="false" />
+            <element signature="e#528538#528539#0" expanded="false" />
+            <element signature="e#539437#539438#0" expanded="false" />
+            <element signature="e#539465#539466#0" expanded="false" />
+            <element signature="e#540182#540183#0" expanded="false" />
+            <element signature="e#540210#540211#0" expanded="false" />
+            <element signature="e#540532#540533#0" expanded="false" />
+            <element signature="e#540556#540557#0" expanded="false" />
+            <element signature="e#540881#540882#0" expanded="false" />
+            <element signature="e#540905#540906#0" expanded="false" />
+            <element signature="e#541224#541225#0" expanded="false" />
+            <element signature="e#541248#541249#0" expanded="false" />
+            <element signature="e#541576#541577#0" expanded="false" />
+            <element signature="e#541600#541601#0" expanded="false" />
+            <element signature="e#544410#544411#0" expanded="false" />
+            <element signature="e#544485#544486#0" expanded="false" />
+            <element signature="e#574945#574946#0" expanded="false" />
+            <element signature="e#574969#574970#0" expanded="false" />
+            <element signature="e#585221#585222#0" expanded="false" />
+            <element signature="e#585254#585255#0" expanded="false" />
+            <element signature="e#589652#589653#0" expanded="false" />
+            <element signature="e#589711#589712#0" expanded="false" />
+            <element signature="e#590705#590706#0" expanded="false" />
+            <element signature="e#590746#590747#0" expanded="false" />
+            <element signature="e#602926#602927#0" expanded="false" />
+            <element signature="e#602960#602961#0" expanded="false" />
+            <element signature="e#607887#607888#0" expanded="false" />
+            <element signature="e#607921#607922#0" expanded="false" />
+            <element signature="e#608207#608208#0" expanded="false" />
+            <element signature="e#608244#608245#0" expanded="false" />
+            <element signature="e#612948#612949#0" expanded="false" />
+            <element signature="e#613008#613009#0" expanded="false" />
+            <element signature="e#614581#614582#0" expanded="false" />
+            <element signature="e#614642#614643#0" expanded="false" />
+            <element signature="e#626728#626729#0" expanded="false" />
+            <element signature="e#626795#626796#0" expanded="false" />
+            <element signature="e#627141#627142#0" expanded="false" />
+            <element signature="e#627167#627168#0" expanded="false" />
+            <element signature="e#627399#627400#0" expanded="false" />
+            <element signature="e#627426#627427#0" expanded="false" />
+            <element signature="e#627870#627871#0" expanded="false" />
+            <element signature="e#627896#627897#0" expanded="false" />
+            <element signature="e#630345#630346#0" expanded="false" />
+            <element signature="e#630369#630370#0" expanded="false" />
+            <element signature="e#633474#633475#0" expanded="false" />
+            <element signature="e#633499#633500#0" expanded="false" />
+            <element signature="e#647419#647420#0" expanded="false" />
+            <element signature="e#647452#647453#0" expanded="false" />
+            <element signature="e#648227#648228#0" expanded="false" />
+            <element signature="e#648259#648260#0" expanded="false" />
+            <element signature="e#648992#648993#0" expanded="false" />
+            <element signature="e#649032#649033#0" expanded="false" />
+            <element signature="e#651230#651231#0" expanded="false" />
+            <element signature="e#651286#651287#0" expanded="false" />
+            <element signature="e#651624#651625#0" expanded="false" />
+            <element signature="e#651681#651682#0" expanded="false" />
+            <element signature="e#652358#652359#0" expanded="false" />
+            <element signature="e#652386#652387#0" expanded="false" />
+            <element signature="e#660062#660063#0" expanded="false" />
+            <element signature="e#660104#660105#0" expanded="false" />
+            <element signature="e#665088#665089#0" expanded="false" />
+            <element signature="e#665149#665150#0" expanded="false" />
+            <element signature="e#665668#665669#0" expanded="false" />
+            <element signature="e#665729#665730#0" expanded="false" />
+            <element signature="e#666262#666263#0" expanded="false" />
+            <element signature="e#666304#666305#0" expanded="false" />
+            <element signature="e#675007#675008#0" expanded="false" />
+            <element signature="e#675035#675036#0" expanded="false" />
+            <element signature="e#676204#676205#0" expanded="false" />
+            <element signature="e#676273#676274#0" expanded="false" />
+            <element signature="e#684070#684071#0" expanded="false" />
+            <element signature="e#684108#684109#0" expanded="false" />
+            <element signature="e#706577#706578#0" expanded="false" />
+            <element signature="e#706623#706624#0" expanded="false" />
+            <element signature="e#706682#706683#0" expanded="false" />
+            <element signature="e#706730#706731#0" expanded="false" />
+            <element signature="e#707112#707113#0" expanded="false" />
+            <element signature="e#707165#707166#0" expanded="false" />
+            <element signature="e#707232#707233#0" expanded="false" />
+            <element signature="e#707287#707288#0" expanded="false" />
+            <element signature="e#707669#707670#0" expanded="false" />
+            <element signature="e#707722#707723#0" expanded="false" />
+            <element signature="e#707781#707782#0" expanded="false" />
+            <element signature="e#707836#707837#0" expanded="false" />
+            <element signature="e#708162#708163#0" expanded="false" />
+            <element signature="e#708204#708205#0" expanded="false" />
+            <element signature="e#708263#708264#0" expanded="false" />
+            <element signature="e#708307#708308#0" expanded="false" />
+            <element signature="e#708633#708634#0" expanded="false" />
+            <element signature="e#708675#708676#0" expanded="false" />
+            <element signature="e#708734#708735#0" expanded="false" />
+            <element signature="e#708778#708779#0" expanded="false" />
+            <element signature="e#709139#709140#0" expanded="false" />
+            <element signature="e#709188#709189#0" expanded="false" />
+            <element signature="e#709247#709248#0" expanded="false" />
+            <element signature="e#709298#709299#0" expanded="false" />
+            <element signature="e#709665#709666#0" expanded="false" />
+            <element signature="e#709715#709716#0" expanded="false" />
+            <element signature="e#709774#709775#0" expanded="false" />
+            <element signature="e#709826#709827#0" expanded="false" />
+            <element signature="e#710193#710194#0" expanded="false" />
+            <element signature="e#710243#710244#0" expanded="false" />
+            <element signature="e#710302#710303#0" expanded="false" />
+            <element signature="e#710354#710355#0" expanded="false" />
+            <element signature="e#710706#710707#0" expanded="false" />
+            <element signature="e#710753#710754#0" expanded="false" />
+            <element signature="e#710812#710813#0" expanded="false" />
+            <element signature="e#710861#710862#0" expanded="false" />
+            <element signature="e#711213#711214#0" expanded="false" />
+            <element signature="e#711260#711261#0" expanded="false" />
+            <element signature="e#711319#711320#0" expanded="false" />
+            <element signature="e#711368#711369#0" expanded="false" />
+            <element signature="e#714962#714963#0" expanded="false" />
+            <element signature="e#715018#715019#0" expanded="false" />
+            <element signature="e#715342#715343#0" expanded="false" />
+            <element signature="e#715399#715400#0" expanded="false" />
+            <element signature="e#716874#716875#0" expanded="false" />
+            <element signature="e#716945#716946#0" expanded="false" />
+            <element signature="e#717286#717287#0" expanded="false" />
+            <element signature="e#717324#717325#0" expanded="false" />
+            <element signature="e#726364#726365#0" expanded="false" />
+            <element signature="e#726405#726406#0" expanded="false" />
+            <element signature="e#726832#726833#0" expanded="false" />
+            <element signature="e#726869#726870#0" expanded="false" />
+            <element signature="e#727118#727119#0" expanded="false" />
+            <element signature="e#727159#727160#0" expanded="false" />
+            <element signature="e#727356#727357#0" expanded="false" />
+            <element signature="e#727417#727418#0" expanded="false" />
+            <element signature="e#727475#727476#0" expanded="false" />
+            <element signature="e#727538#727539#0" expanded="false" />
+            <element signature="e#754017#754018#0" expanded="false" />
+            <element signature="e#754052#754053#0" expanded="false" />
+            <element signature="e#755429#755430#0" expanded="false" />
+            <element signature="e#755477#755478#0" expanded="false" />
+            <element signature="e#755647#755648#0" expanded="false" />
+            <element signature="e#755710#755711#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3313783">
+          <caret line="739" column="0" selection-start-line="739" selection-start-column="0" selection-end-line="739" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/ic_contacts_edit_contacts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/ic_menu_preferences.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sipdroid.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.335043">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/app/Dialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="529" column="16" selection-start-line="529" selection-start-column="16" selection-end-line="529" selection-end-column="16" />
+          <folding>
+            <element signature="e#17642#17643#0" expanded="false" />
+            <element signature="e#17693#17694#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/tools/android-sdk/sources/android-19/android/app/AlertDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="486" column="23" selection-start-line="486" selection-start-column="23" selection-end-line="486" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/console_voipmedia.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/login_console.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3090909">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/voipmedia/ui/SubscriberConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sipdroid/sipua/ui/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="663" column="48" selection-start-line="663" selection-start-column="48" selection-end-line="663" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#30383#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#14716#14764#0" expanded="true" />
+            <element signature="e#14843#14891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4716983">
+          <caret line="304" column="35" selection-start-line="304" selection-start-column="14" selection-end-line="304" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.375">
+          <caret line="316" column="91" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/voipmedia/ui/LoginConsoleVoIPMedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4692082">
+          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1969#2003#0" expanded="true" />
+            <element signature="e#2045#2079#0" expanded="true" />
+            <element signature="e#2372#8480#0" expanded="true" />
+            <element signature="e#6456#6486#0" expanded="true" />
+            <element signature="e#6688#6703#0" expanded="true" />
+            <element signature="e#6749#7373#0" expanded="true" />
+            <element signature="e#7372#7373#0" expanded="true" />
+            <element signature="e#8479#8480#0" expanded="true" />
+            <element signature="e#8672#8703#0" expanded="true" />
+            <element signature="e#8813#8828#0" expanded="true" />
+            <element signature="e#8842#9048#0" expanded="true" />
+            <element signature="e#9047#9048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sipdroid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

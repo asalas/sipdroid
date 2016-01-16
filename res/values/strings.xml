@@ -283,6 +283,7 @@
 <string name="menu_endCall">End call</string>
 <string name="menu_answer">Answer</string>
 <string name="menu_bluetooth">Bluetooth (experimental)</string>
+<string name="login_console">Login ConsoleVoIPMedia</string>
 
 <string name="transfer_title">Transfer Call to</string>
 
@@ -308,5 +309,11 @@
 
 <string name="help_speakerphone">Press and hold volume buttons to force talk</string>
 <string name="menu_create">New PBX linked to my Google Voice</string>
+
+<string name="authenticating">Authenticating ...</string>
+<string name="authenticating_message">Please wait to response from ConsoleVoIPMedia</string>
+<string name="error_on_login_console">An error has ocurred in login ConsoleVoIPMedia, try again.</string>
+<string name="accept">ACCEPT</string>
+<string name="success_login_console">The user preferences are correctly registered</string>
 
 </resources>

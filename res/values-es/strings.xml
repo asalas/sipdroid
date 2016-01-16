@@ -298,4 +298,10 @@
 
 <string name="help_speakerphone">Presione y libere los botones para forzar la llamada</string>
 
+<string name="authenticating">Autenticando ...</string>
+<string name="authenticating_message">Por favor espere la respuesta de ConsoleVoIPMedia</string>
+<string name="error_on_login_console">Un error ha ocurrido en la respuesta de ConsoleVoIPMedia, intentelo nuevamente.</string>
+<string name="accept">ACEPTAR</string>
+<string name="success_login_console">Las preferencias del usuario se han registrado correctamente</string>
+
  </resources>

@@ -23,6 +23,7 @@ package org.sipdroid.sipua.ui;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.util.Map;
 
 import org.sipdroid.codecs.Codecs;
 import org.sipdroid.media.RtpStreamReceiver;
@@ -47,6 +48,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import net.voipmedia.ui.SubscriberConsole;
 
 public class Settings extends PreferenceActivity implements OnSharedPreferenceChangeListener, OnClickListener {
 	// Current settings handler
@@ -286,7 +289,7 @@ public class Settings extends PreferenceActivity implements OnSharedPreferenceCh
 				cb.setChecked(true);
 				Editor edit = settings.edit();
 
-				edit.putString(PREF_PORT+j, "5061");
+				edit.putString(PREF_PORT+j, "5060"); // the original value 5061
 				edit.putString(PREF_SERVER+j, DEFAULT_SERVER);
 				edit.putString(PREF_PREF+j, DEFAULT_PREF);				
 				edit.putString(PREF_PROTOCOL+j, DEFAULT_PROTOCOL);
@@ -646,6 +649,26 @@ public class Settings extends PreferenceActivity implements OnSharedPreferenceCh
 	public void onClick(DialogInterface arg0, int arg1) {
 		Editor edit = settings.edit();
  		edit.putString(mKey, transferText.getText().toString());
+		edit.commit();
+	}
+
+	public void changePreferenceByLoginConsole(Map<String, Object> subscriberConsoleMap) throws Exception
+	{
+		String userName = (String)subscriberConsoleMap.get(SubscriberConsole.USER_NAME);
+		String password = (String)subscriberConsoleMap.get(SubscriberConsole.PASSWORD);
+		String domain = (String)subscriberConsoleMap.get(SubscriberConsole.DOMAIN);
+		String pbx = (String)subscriberConsoleMap.get(SubscriberConsole.PBX_HOST);
+
+		settings = PreferenceManager.getDefaultSharedPreferences(Receiver.mContext);
+		Editor edit = settings.edit();
+		edit.putString(PREF_USERNAME, userName);
+		edit.putString(PREF_PASSWORD, password);
+		edit.putString(PREF_SERVER, pbx);
+		edit.putString(PREF_DOMAIN, domain);
+		edit.putString(PREF_PROTOCOL, "udp");
+		edit.putBoolean(PREF_3G, true);
+		edit.putBoolean(PREF_EDGE, true);
+		edit.putBoolean(PREF_WLAN, true);
 		edit.commit();
 	}
 }
